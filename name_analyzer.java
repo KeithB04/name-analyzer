@@ -13,9 +13,9 @@ import java.util.Scanner;
 
 // TODO: Auto-generated Javadoc
 /**
- * The Class Project1.
+ * The Class nameAnalyzer.
  */
-public class Project1 {
+public class nameAnalyzer {
 	
 	/**
 	 * The main method.
@@ -419,4 +419,5 @@ public class Project1 {
 	}
 
 }
+
 
